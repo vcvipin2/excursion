@@ -33,6 +33,15 @@ h1 {
     color: gray;
 }
 
+.footer {
+    text-align: center;
+}
+
+#alignright {
+    text-align: right;
+    color: gray;
+}
+
 
 
 
